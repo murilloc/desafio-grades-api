@@ -1,0 +1,2 @@
+MONGODB=mongodb://root:changeme%21@localhost:27017/?poolSize=20&w=majority
+PORT=8081
